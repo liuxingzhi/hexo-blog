@@ -4,13 +4,12 @@ on:
     branches:
       - main
     paths:
-      - source/**
-      - _config.yml
-      - _config.butterfly.yml
+      - public/**
 
 jobs:
-  build:
-    name: Build static website to publish in public_dir 
+  deploy:
+    name: Merge hexo blog with my previous blog
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 
@@ -18,42 +17,14 @@ jobs:
         with:
           repository: liuxingzhi/hexo-blog
           path: hexo-blog
+          token:  ${{ secrets.REPO_COMMIT_TOKEN }}
+      - name:
+        run: echo ${{ secrets.REPO_COMMIT_TOKEN }}
 
-
-      - name: download hexo
-        run: npm install -g hexo-cli
-
-      - name: download hexo-butterfly
-        run: | 
-          cd hexo-blog
-          npm i hexo-theme-butterfly
-          npm i hexo-renderer-pug hexo-renderer-stylus
-      
-      - name: generate static webpage
-        run: hexo generate
-
-      - name: check files are in correct place
-        run: |
-          ls -alt
-          cd ..
-          ls -alt
-
-  deploy:
-    name: merge hexo blog with my previous blog
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
       - name: Checkout 
         uses: actions/checkout@v3
         with:
           repository: liuxingzhi/liuxingzhi.github.io
           path: liuxingzhi.github.io
 
-      - name: check where I am
-        run: |
-          ls -alt
-          pwd
-          cd ..
-          ls -alt
-          cd ..
-          ls -alt
+
