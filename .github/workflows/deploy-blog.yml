@@ -9,7 +9,6 @@ on:
 jobs:
   deploy:
     name: Merge hexo blog with my previous blog
-    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 
