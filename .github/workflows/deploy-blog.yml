@@ -25,16 +25,22 @@ jobs:
 
       - name: download hexo-butterfly
         run: | 
-          pwd
+          cd hexo-blog
           npm i hexo-theme-butterfly
           npm i hexo-renderer-pug hexo-renderer-stylus
       
       - name: generate static webpage
         run: hexo generate
 
-  
+      - name: check files are in correct place
+        run: |
+          ls -alt
+          cd ..
+          ls -alt
+
   deploy:
-    name: Build static website to publish in public_dir 
+    name: merge hexo blog with my previous blog
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 
