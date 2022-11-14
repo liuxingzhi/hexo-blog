@@ -30,6 +30,8 @@ jobs:
         run: |
           cp -R hexo-blog/public/. liuxingzhi.github.io/genshin/
           cd liuxingzhi.github.io
+          git config --global user.email "liuxingzhi99@gmail.com"
+          git config --global user.name "xingzhi liu"
           git add .
           git commit -m "Automatic publish from github.com/hexo-blog"
           git push
