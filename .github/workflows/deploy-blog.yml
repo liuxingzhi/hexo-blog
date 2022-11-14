@@ -31,7 +31,7 @@ jobs:
           cp -R hexo-blog/public/. liuxingzhi.github.io/genshin/
           cd liuxingzhi.github.io
           git add .
-          git commit -m -m "Automatic publish from github.com/hexo-blog"
+          git commit -m "Automatic publish from github.com/hexo-blog"
           git push
 
 
