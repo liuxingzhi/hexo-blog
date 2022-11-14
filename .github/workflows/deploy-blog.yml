@@ -1,0 +1,24 @@
+name: Deploy Hexo to github pages
+on: 
+  push:
+    branches:
+      - main
+    paths:
+      - source/**
+      - _config.yml
+      - _config.butterfly.yml
+jobs:
+  build:
+    name: Build static website to publish in public_dir 
+    runs-on: ubuntu-latest
+    steps:
+      - name: download hexo
+        run: npm install -g hexo-cli
+
+      - name: download hexo-butterfly
+        run: | 
+          npm i hexo-theme-butterfly
+          npm i hexo-renderer-pug hexo-renderer-stylus
+      
+      - name: generate static webpage
+        run: hexo generate
