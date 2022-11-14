@@ -8,7 +8,7 @@ top_img: /imgs/草神归位.jpg
 
 ## 主线任务
 Cut back on something 节食
-妮露登台跳舞前: I cut back on sweets in the period leading up to a performance and I'm about to start one.
+妮露登台跳舞前: I **cut back on sweets** in the period leading up to a performance and I'm about to start one.
 
 hit the stage 登台
 OK, time to hit the "stage".
