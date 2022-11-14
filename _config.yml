@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://example.com/genshin
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -57,7 +57,7 @@ prismjs:
   tab_replace: ''
 
 # Home page setting
-# path: Root path for your blogs index page. (default = '')
+path: /genshin/ # Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
