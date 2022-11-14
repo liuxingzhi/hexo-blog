@@ -11,19 +11,26 @@ jobs:
     name: Merge hexo blog with my previous blog
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 
+      - name: Checkout hexo blog
         uses: actions/checkout@v3
         with:
           repository: liuxingzhi/hexo-blog
           path: hexo-blog
-          token:  ${{ secrets.REPO_COMMIT_TOKEN }}
       - name:
         run: echo ${{ secrets.REPO_COMMIT_TOKEN }}
 
-      - name: Checkout 
+      - name: Checkout main blog
         uses: actions/checkout@v3
         with:
           repository: liuxingzhi/liuxingzhi.github.io
           path: liuxingzhi.github.io
+          token:  ${{ secrets.REPO_COMMIT_TOKEN }}
+      
+      - name: Merge hexo to main blog
+        run: |
+          cp -R hexo-blog/public/. liuxingzhi.github.io/genshin/
+          cd liuxingzhi.github.io
+          ls
+
 
 
