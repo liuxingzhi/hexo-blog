@@ -16,7 +16,7 @@ jobs:
       - name: Checkout 
         uses: actions/checkout@v3
         with:
-          repository: https://github.com/liuxingzhi/hexo-blog
+          repository: liuxingzhi/hexo-blog
 
 
       - name: download hexo
