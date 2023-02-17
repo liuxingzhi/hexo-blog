@@ -1,6 +1,6 @@
 ---
-title: 原神3.2 须弥 英语词组
-date: 2022-11-10 05:07:36
+title: 原神3.2 草神归位 英语词组
+date: 2022-11-10
 tags: English, Genshin
 cover: /imgs/草神归位.jpg
 top_img: /imgs/草神归位.jpg
