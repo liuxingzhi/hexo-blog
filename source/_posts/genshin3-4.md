@@ -57,4 +57,38 @@ brighten up the astomesphere
 待会见
 I'll catch up you later
 
+## 斗虫大会
+rake in 大量地聚集(钱财)
+Arataki Itto: We'll be raking in the Mora.
+
+rope someone into 拉拢某人
+Arataki Itto: Or maybe I can visit Naganohara Firework and see if I can rope that gal in into it.
+
+hair-brained adj.不切实际的 脑残
+We were heading to the Adventure's Guild, but then we saw you you causing a commotion and talking about your hair-brained event idea.
+
+trounce v.彻底击溃
+
+rise to the occasion 应景而行
+If flying lavendar melon is representing the Arataki Gang, we gotta rise to the occasion. We'll need a better title...
+
+garish adj.花哨的
+
+laughing stock 笑柄
+
+spilled milk
+water under the bridge 已成往事
+
+empty vessels make the most noise 半瓶水响叮当
+
+shenanigan n.恶作剧
+
+## 沙漠地图支线
+#### 比勒琪丝的哀歌
+fret v.烦恼
+matriarch n.族长(女)
+Runes 卢恩字母
+
+in tandem 
+Perhaps they can be moved in tandem somehow.
 
