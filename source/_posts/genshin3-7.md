@@ -1,5 +1,5 @@
 ---
-title: genshin3.7
+title: genshin3.7 决斗，召唤之巅
 date: 2023-05-24 22:40:07
 tags: English, Genshin
 cover: /imgs/七圣召唤-神.jpg

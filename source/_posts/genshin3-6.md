@@ -1,5 +1,5 @@
 ---
-title: genshin3.6
+title: genshin3.6 须弥学园祭(盛典与慧业)
 date: 2023-04-29 19:40:04
 tags: English, Genshin
 cover: /imgs/卡维.webp

@@ -1,5 +1,5 @@
 ---
-title: genshin3.5
+title: genshin3.5 风花的呼吸
 date: 2023-03-04 00:56:02
 tags: English, Genshin
 cover: /imgs/赛诺冷笑话.jpg
