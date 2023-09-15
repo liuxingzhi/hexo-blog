@@ -2,8 +2,8 @@
 title: genshin3.8 夏活2023
 date: 2023-05-24 22:40:07
 tags: English, Genshin
-cover: /imgs/七圣召唤-神.jpg
-top_img: /imgs/七圣召唤-神.jpg
+cover: /imgs/可莉.jpg
+top_img: /imgs/可莉.jpg
 ---
 
 夏活:
