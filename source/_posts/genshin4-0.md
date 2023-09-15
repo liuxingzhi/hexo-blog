@@ -1,5 +1,5 @@
 ---
-title: genshin4.0
+title: genshin4.0 初见枫丹
 date: 2023-08-21 20:59:38
 tags: English, Genshin
 cover: /imgs/林尼双子.jpg

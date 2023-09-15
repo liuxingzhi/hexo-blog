@@ -1,5 +1,5 @@
 ---
-title: genshin1.x
+title: genshin1.x 笔记合集
 date: 2023-06-01 02:01:04
 tags: English, Genshin
 cover: /imgs/双子和4神.webp

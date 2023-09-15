@@ -1,5 +1,5 @@
 ---
-title: tale-of-arise
+title: 破晓传说 笔记
 date: 2023-07-19 03:47:09
 tags: English
 cover: /imgs/Rinwell手办.jpg
