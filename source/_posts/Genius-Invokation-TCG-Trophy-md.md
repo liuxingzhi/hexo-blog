@@ -1,5 +1,5 @@
 ---
-title: Genius-Invokation-TCG-Trophy.md
+title: 七圣召唤之旅圆满收官
 date: 2023-09-15 00:33:57
 tags: Blog, Genshin
 cover: /imgs/玩牌者.jpg
