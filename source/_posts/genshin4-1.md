@@ -2,8 +2,8 @@
 title: genshin4.1
 date: 2023-10-11 18:48:08
 tags: English, Genshin
-cover: /imgs/furina.jpg
-top_img: /imgs/furina.jpg
+cover: /imgs/furina-cropped.jpg
+top_img: /imgs/furina-cropped.jpg
 ---
 
 ## 主线 第三幕
