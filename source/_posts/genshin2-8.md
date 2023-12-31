@@ -51,7 +51,7 @@ score n.曲谱
 独一无二 one of a kind
 香菱: My gify is one-of-a-kind.
 
-pamper v.细心照顾wwwwwwwwwwww
+pamper v.细心照顾
 Don't wear it around your neck. Put it on your guitar!
 Everyday I see how much you pamper your guitar, so I thought you should to jazz it up a bit.
 
