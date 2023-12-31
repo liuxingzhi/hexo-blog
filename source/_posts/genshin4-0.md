@@ -6,7 +6,7 @@ cover: /imgs/林尼双子.jpg
 top_img: /imgs/林尼双子.jpg
 ---
 
-主线 卡利贝尔
+## 主线 卡利贝尔
 mania n.狂躁
 compatriot n.同胞
 decrepit adj.破旧的 年久失修的
@@ -19,7 +19,7 @@ loom n.织布机
 rear its head (形容不好的事物)冒头
 Dainsleif: Still, as I'd suspected, the notion of the "the loom of fate" did indeed rear its head during that time.
 
-4.0 枫丹主线 第一章
+## 4.0 枫丹主线 第一章
 cardinal n.红衣主教
 seek an audience with sb 觐见
 Furina: Of source, seeking an audience with me is the most sensible thing to do. It will allow you to truly behold my power and witness my authority. Intelligent people always gather under the correct banner.
@@ -109,3 +109,10 @@ Traveler: Way to pull the rug out from under her...
 
 bravado 虚张声势
 Based on Furina's reaction, I doubt even she had any idea what was going on. She managed to bluff her away through it, though, with time-tested twin tricks of **bravado** and drama.
+
+## 特别增加原神动画
+### What if Genshin had a Cyberpunk Anime? - EPISODE 1 - PROGENITOR: The Shogunate (DillonGoo x Genshin)
+a slap on the wrist 轻微的惩罚
+And organics never get more than a salp on the wrist anyway. They'll be fine.
+
+**低调**的第二种说法： lie low 
