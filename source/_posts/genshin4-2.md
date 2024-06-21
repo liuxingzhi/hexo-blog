@@ -1,5 +1,5 @@
 ---
-title: genshin4.2
+title: genshin4.2 枫丹结局
 date: 2023-11-11 23:01:29
 tags: English, Genshin
 cover: /imgs/那维莱特的孤独.jpeg

@@ -1,5 +1,5 @@
 ---
-title: genshin4.1
+title: genshin4.1 坐牢体验
 date: 2023-10-11 18:48:08
 tags: English, Genshin
 cover: /imgs/furina-cropped.jpg
